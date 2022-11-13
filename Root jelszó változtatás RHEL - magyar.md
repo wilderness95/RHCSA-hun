@@ -1,7 +1,8 @@
 ---
+tags: [RHCSA 8 Practice Exam - I]
 title: Root jelszó változtatás RHEL - magyar
 created: '2022-11-13T07:43:56.361Z'
-modified: '2022-11-13T19:35:17.606Z'
+modified: '2022-11-13T20:48:29.895Z'
 ---
 
 # Root jelszó változtatás RHEL - magyar

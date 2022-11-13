@@ -1,7 +1,8 @@
 ---
+tags: [RHCSA 8 Practice Exam - I]
 title: Idő beállítása - Original link
 created: '2022-11-13T08:26:33.207Z'
-modified: '2022-11-13T16:42:01.295Z'
+modified: '2022-11-13T20:48:29.834Z'
 ---
 
 # Idő beállítása - [Original link](https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/7/html/system_administrators_guide/chap-configuring_the_date_and_time)

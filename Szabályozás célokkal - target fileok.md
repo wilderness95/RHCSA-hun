@@ -1,7 +1,8 @@
 ---
+tags: [RHCSA 8 Practice Exam - I]
 title: Szabályozás célokkal - target fileok
 created: '2022-11-13T20:04:01.302Z'
-modified: '2022-11-13T20:15:03.949Z'
+modified: '2022-11-13T20:48:29.909Z'
 ---
 
 # Szabályozás célokkal - target fileok

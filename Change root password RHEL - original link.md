@@ -1,8 +1,8 @@
 ---
-tags: [EX200, Linux, RHEL]
+tags: [EX200, Linux, RHCSA 8 Practice Exam - I, RHEL]
 title: Change root password RHEL - original link
 created: '2022-11-13T08:02:33.609Z'
-modified: '2022-11-13T08:14:09.878Z'
+modified: '2022-11-13T20:48:29.781Z'
 ---
 
 # Change root password RHEL - [original link ](https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/8/html/configuring_basic_system_settings/changing-and-resetting-the-root-password-from-the-command-line_configuring-basic-system-settings)

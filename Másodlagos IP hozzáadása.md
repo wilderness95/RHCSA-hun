@@ -1,7 +1,8 @@
 ---
+tags: [RHCSA 8 Practice Exam - I]
 title: Másodlagos IP hozzáadása
 created: '2022-11-13T17:11:51.233Z'
-modified: '2022-11-13T17:18:33.972Z'
+modified: '2022-11-13T20:48:29.849Z'
 ---
 
 # Másodlagos IP hozzáadása

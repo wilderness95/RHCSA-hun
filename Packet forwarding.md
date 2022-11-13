@@ -1,7 +1,8 @@
 ---
+tags: [RHCSA 8 Practice Exam - I]
 title: Packet forwarding
 created: '2022-11-13T19:38:22.355Z'
-modified: '2022-11-13T19:51:31.077Z'
+modified: '2022-11-13T20:48:29.861Z'
 ---
 
 # Packet forwarding

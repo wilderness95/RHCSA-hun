@@ -1,7 +1,8 @@
 ---
+tags: [RHCSA 8 Practice Exam - I]
 title: Repok hozzáadása
 created: '2022-11-13T08:14:20.988Z'
-modified: '2022-11-13T08:24:05.198Z'
+modified: '2022-11-13T20:48:29.874Z'
 ---
 
 # Repok hozzáadása
